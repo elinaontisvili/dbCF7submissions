@@ -1,2 +1,2 @@
 # dbCF7submissions
-Custom database for Contact Form 7 submissions
+Custom database plugin for Contact Form 7 submissions
